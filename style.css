@@ -1,0 +1,83 @@
+*{
+  box-sizing: border-box;
+}
+
+html, body{
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+}
+
+h1{
+  color: maroon;
+  text-align: center;
+}
+
+#address ul{
+  font-size: 11px;
+  text-align: center;
+}  
+
+#address ul li{
+  display: inline-block;
+  white-space: nowrap;
+  margin: 4px;
+  
+}
+a{
+  color: firebrick;
+}
+hr{
+  outline-style: double;
+  
+}
+#describe{
+  font-size: 12px;
+}
+#des{
+  padding: 4px;
+  margin: 6px;
+}
+#edu{
+  color: maroon;
+  font-size: 14px;
+  padding: 4px;
+  margin: 5px;
+}
+#sch{
+  padding: 5px;
+  margin: 5px;
+}
+#help ul li{
+  margin: 0;
+   
+}
+
+.a{
+  position: relative;
+  left: 250px;
+}
+#work{
+ color: maroon;
+  font-size: 14px;
+  padding: 4px;
+  margin: 5px; 
+}
+.work{
+  padding: 5px;
+  margin: 5px;
+}
+.b{
+  position: relative;
+  left: 6px;
+}
+.exp{
+  color: maroon;
+  font-size: 14px;
+  padding: 4px;
+  margin: 5px; 
+}
+.exp ul{
+  color: black;
+  font-size: 12px;
+}
